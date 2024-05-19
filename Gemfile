@@ -1,4 +1,7 @@
-gem 'jekyll-postcss-v2'
+
+source "https://rubygems.org/" do
+  gem 'jekyll-postcss-v2'
+end
 gem 'kramdown-parser-gfm'
 gem 'jekyll-watch'
 gem 'em-websocket'
