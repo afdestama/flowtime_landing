@@ -1,4 +1,4 @@
-gem 'jekyll-postcss'
+gem 'jekyll-postcss-v2'
 gem 'kramdown-parser-gfm'
 gem 'jekyll-watch'
 gem 'em-websocket'
