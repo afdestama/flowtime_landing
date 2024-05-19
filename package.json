@@ -4,5 +4,8 @@
     "cssnano": "^7.0.1",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.3"
+  },
+  "scripts": {
+    "build": "npm i postcss postcss-cli && bundle exec jekyll build"
   }
 }
